@@ -5,5 +5,3 @@ export class rojo extends color{
         return("Pintando de color rojo");
     }
 }
-
-export default rojo;

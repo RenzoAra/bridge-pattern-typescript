@@ -5,5 +5,3 @@ export class negro extends color {
         return("Pintando de color negro");
     }
 }
-
-export default negro;

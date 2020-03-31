@@ -9,5 +9,3 @@ export class circulo extends figura {
         return ("Dibujando circulo..."+this.colour.pintar());
     }
 }
-
-export default circulo;

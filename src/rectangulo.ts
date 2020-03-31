@@ -9,5 +9,3 @@ export class rectangulo extends figura {
         return ("Dibujando rectangulo..."+(this.colour.pintar()))
     }
 }
-
-export default rectangulo;

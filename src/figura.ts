@@ -7,5 +7,3 @@ export abstract class figura {
     }
     abstract dibujar();
 }
-
-export default figura;
